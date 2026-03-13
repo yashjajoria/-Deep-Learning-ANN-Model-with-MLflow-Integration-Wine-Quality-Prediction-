@@ -338,16 +338,6 @@ A commonly used structure for this kind of project:
 
 ---
 
-## 15. License
-
-Specify your license here. Common choices:
-- MIT
-- Apache-2.0
-- GPL-3.0
-
-If you already have a `LICENSE` file in the repository, ensure this section matches it.
-
----
 
 ### Acknowledgements
 
